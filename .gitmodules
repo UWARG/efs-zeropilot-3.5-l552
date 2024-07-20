@@ -1,0 +1,3 @@
+[submodule "zeropilot_3.5/zeropilot_3.5_core"]
+	path = zeropilot_3.5/zeropilot_3.5_core
+	url = https://github.com/UWARG/efs-zeropilot-3.5-core.git
